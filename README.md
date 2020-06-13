@@ -1,7 +1,6 @@
 # react-use-fetch
 
 [![CircleCI](https://circleci.com/gh/bsonntag/react-use-fetch.svg?style=svg)](https://circleci.com/gh/bsonntag/react-use-fetch)
-[![Coverage Status](https://coveralls.io/repos/github/bsonntag/react-use-fetch/badge.svg?branch=master)](https://coveralls.io/github/bsonntag/react-use-fetch?branch=master)
 
 React hook for using fetch.
 
